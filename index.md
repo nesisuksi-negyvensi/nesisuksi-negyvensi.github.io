@@ -1,5 +1,3 @@
-## Nesisuksi - negyvensi, MB
-
 * Company code: **304993221**
 * <negyvensi@nesisuksi.com>
 
