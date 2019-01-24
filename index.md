@@ -1,12 +1,11 @@
-## Nesisuksi - negyvensi, MB
+Company code: **304993221**
 
-* Company code: **304993221**
-* <negyvensi@nesisuksi.com>
+<negyvensi@nesisuksi.com>
 
 
-### Bank accounts
+## Bank accounts
 
-#### EUR
+### EUR
 
 * Account beneficial: **MB Nesisuksi - negyvensi**
 * Account number: **LT057300010157568997**
