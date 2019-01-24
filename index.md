@@ -7,7 +7,7 @@ Company code: **304993221**
 
 ### EUR
 
-* Account beneficial: **MB Nesisuksi - negyvensi**
-* Account number: **LT057300010157568997**
+* Name: **MB Nesisuksi - negyvensi**
+* Account: **LT057300010157568997**
 * Bank name: **Swedbank AB**
 * Bank SWIFT / BIC: **HABALT22**
