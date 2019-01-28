@@ -7,14 +7,14 @@ Company code: **304993221**
 
 ## Bank accounts
 
-### Euros (SEPA transfers)
+### Euro (SEPA transfers)
 
 * Account Holder: **MB Nesisuksi - negyvensi**
 * Account Number (IBAN): **LT057300010157568997**
 * Bank Name: **Swedbank AB**
 * Bank Code (SWIFT / BIC): **HABALT22**
 
-### US Dollars (wire / ACH transfers)
+### US Dollar (wire / ACH transfers)
 
 * Account Holder: **TransferWise FBO Nesisuksi - negyvensi, MB**
 * Account Number: **8310224784**
