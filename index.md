@@ -3,7 +3,7 @@ Company code: **304993221**
 <negyvensi@nesisuksi.com>
 
 
-## Bank accounts
+## Preferred bank accounts
 
 ### Euro (SEPA transfers)
 
