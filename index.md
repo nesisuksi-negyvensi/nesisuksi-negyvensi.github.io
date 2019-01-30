@@ -1,6 +1,6 @@
-Company code: **304993221**
-
-<negyvensi@nesisuksi.com>
+* Company Code: **304993221**
+* D-U-N-S Number: **536756956**
+* Email: <negyvensi@nesisuksi.com>
 
 
 ## Preferred bank accounts
