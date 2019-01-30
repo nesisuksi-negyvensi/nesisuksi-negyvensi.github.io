@@ -1,3 +1,12 @@
+<<<<<<< Updated upstream
 theme: jekyll-theme-tactile
 title: Nesisuksi - negyvensi
 show_downloads: false
+=======
+title: Nesisuksi - negyvensi
+description: MB „Nesisuksi - negyvensi“
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+>>>>>>> Stashed changes
