@@ -14,9 +14,9 @@ layout: default
     <div class="container">
         <h2>Euros <em>(SEPA transfers)</em></h2>
         Account Holder: <strong>MB Nesisuksi - negyvensi</strong><br />
-        Account Number (IBAN): <strong>GB55REVO00996943128471</strong><br />
-        Bank Name: <strong>Revolut Ltd</strong><br />
-        Bank Code (SWIFT / BIC): <strong>REVOGB21</strong>
+        Account Number (IBAN): <strong>LT764010051005210935</strong><br />
+        Bank Name: <strong>Luminor Bank AS Lietuvos skyrius</strong><br />
+        Bank Code (SWIFT / BIC): <strong>AGBLLT2X</strong>
         <h2>US Dollars <em>(wire / ACH transfers)</em></h2>
         Account Holder: <strong>Nesisuksi - negyvensi, MB</strong><br />
         Account Number: <strong>8310224784</strong><br />
