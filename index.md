@@ -6,6 +6,7 @@ layout: default
     <div class="container">
         Company Code: <strong>304993221</strong><br />
         D-U-N-S Number: <strong>536756956</strong><br />
+        LEI: <strong>8945001ONQT9NQXAQ668</strong><br />
         Email: <a href="mailto:negyvensi@nesisuksi.com">negyvensi@nesisuksi.com</a>
     </div>
 </section>
