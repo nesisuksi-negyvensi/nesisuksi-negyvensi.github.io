@@ -18,7 +18,7 @@ layout: default
         Account Number (IBAN): <strong>LT764010051005210935</strong><br />
         Bank Name: <strong>Luminor Bank AS Lietuvos skyrius</strong><br />
         Bank Code (SWIFT / BIC): <strong>AGBLLT2X</strong>
-        <h2>US Dollars <em>(wire / ACH transfers)</em></h2>
+        <h2>US Dollars <em>(ACH transfers preferred but wire transfers work too!)</em></h2>
         Account Holder: <strong>Nesisuksi - negyvensi, MB</strong><br />
         Account Number: <strong>9600000000142711</strong><br />
         Account Type: <strong>Checking</strong><br />
