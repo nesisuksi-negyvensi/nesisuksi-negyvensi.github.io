@@ -20,10 +20,9 @@ layout: default
         Bank Code (SWIFT / BIC): <strong>AGBLLT2X</strong>
         <h2>US Dollars <em>(wire / ACH transfers)</em></h2>
         Account Holder: <strong>Nesisuksi - negyvensi, MB</strong><br />
-        Account Number: <strong>8310224784</strong><br />
-        Wire Transfer Number: <strong>026073008</strong><br />
-        Routing Number (ACH or ABA): <strong>026073150</strong><br />
-        Bank Code (SWIFT / BIC): <strong>CMFGUS33</strong><br />
-        Bank Address: <strong>TransferWise, 19 W 24th Street, New York 10010, United States</strong>
+        Account Number: <strong>9600000000142711</strong><br />
+        Account Type: <strong>Checking</strong><br />
+        Routing Number: <strong>084009519</strong><br />
+        Bank Address: <strong>TransferWise, 19 W 24th Street, New York NY 10010, United States</strong>
     </div>
 </section>
