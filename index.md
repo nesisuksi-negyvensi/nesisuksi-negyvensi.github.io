@@ -23,6 +23,6 @@ layout: default
         Account Number: <strong>9600000000142711</strong><br />
         Account Type: <strong>Checking</strong><br />
         Routing Number: <strong>084009519</strong><br />
-        Bank Address: <strong>TransferWise, 19 W 24th Street, New York NY 10010, United States</strong>
+        Bank Address: <strong>30 W. 26th Street, Sixth Floor, New York NY 10010, United States</strong>
     </div>
 </section>
