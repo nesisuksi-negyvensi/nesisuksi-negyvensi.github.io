@@ -20,9 +20,9 @@ layout: default
         Bank Code (SWIFT / BIC): <strong>AGBLLT2X</strong>
         <h2>US Dollars <em>(ACH transfers preferred but wire transfers work too!)</em></h2>
         Account Holder: <strong>Nesisuksi - negyvensi, MB</strong><br />
-        Account Number: <strong>9600000000142711</strong><br />
+        Account Number: <strong>8310224784</strong><br />
         Account Type: <strong>Checking</strong><br />
-        Routing Number: <strong>084009519</strong><br />
+        Routing Number: <strong>026073150</strong><br />
         Bank Address: <strong>30 W. 26th Street, Sixth Floor, New York NY 10010, United States</strong>
     </div>
 </section>
