@@ -4,8 +4,8 @@ layout: default
 
 <section>
     <div class="container">
-        Company Code: <strong>304993221</strong><br />
-        D-U-N-S Number: <strong>536756956</strong><br />
+        Company Code: <a href="https://rekvizitai.vz.lt/imone/nesisuksi_negyvensi/" rel="nofollow"><strong>304993221</strong></a><br />
+        DUNS Number: <strong>536756956</strong><br />
         LEI: <strong>8945001ONQT9NQXAQ668</strong><br />
         Email: <a href="mailto:negyvensi@nesisuksi.com">negyvensi@nesisuksi.com</a>
     </div>
@@ -23,6 +23,6 @@ layout: default
         Account Number: <strong>8310224784</strong><br />
         Account Type: <strong>Checking</strong><br />
         Routing Number: <strong>026073150</strong><br />
-        Bank Address: <strong>30 W. 26th Street, Sixth Floor, New York NY 10010, United States</strong>
+        Bank Address: <strong>Community Federal Savings Bank, 89-16 Jamaica Ave, Woodhaven NY 11421, United States</strong>
     </div>
 </section>
