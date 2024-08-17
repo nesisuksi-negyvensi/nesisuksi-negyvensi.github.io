@@ -4,7 +4,7 @@ layout: default
 
 <section>
     <div class="container">
-        Company Code: <a href="https://rekvizitai.vz.lt/imone/nesisuksi_negyvensi/" rel="nofollow"><strong>304993221</strong></a><br />
+        Company Code: <a href="https://rekvizitai.vz.lt/imone/nesisuksi_negyvensi/" rel="nofollow" target="_blank"><strong>304993221</strong></a><br />
         DUNS Number: <strong>536756956</strong><br />
         LEI: <strong>8945001ONQT9NQXAQ668</strong><br />
         Email: <a href="mailto:negyvensi@nesisuksi.com">negyvensi@nesisuksi.com</a>
